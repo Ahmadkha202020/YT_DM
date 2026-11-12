@@ -1,7 +1,8 @@
 {
     "latest_version": "2.0.0",
-    "release_date": "2026-10-25",
-    "mandatory": TRUE,
-    "download_url": "https://drive.google.com/file/d/111XL9inl31uRr47VXXCw9vkhi89jC_GV/view?usp=drive_link",
-    "release_notes": " التحديث الجديد وصل!\n• إضافة زر التحميل المباشر داخل يوتيوب (Browser Extension)\n• تسريع تحميل البلاي ليست بنسبة 40%\n• إصلاح بعض الأخطاء وتحسين الواجهة"
+    "release_date": "2026-11-12",
+    "mandatory": false,
+    "download_url": "ضع_رابط_تحميل_النسخة_الجديدة_مباشرة_هنا",
+    "release_notes": "🔥 تم إطلاق الإصدار 2.0.0 العملاق!\n• واجهة عصرية جديدة بالكامل (Dark Mode)\n• دعم تحميل قوائم التشغيل (Playlists) المجمعة\n• مصغر ذكي عائم (Mini Widget) لمراقبة التحميلات\n• إضافة متصفح يوتيوب بضغطة زر",
+    "sha256": ""
 }
